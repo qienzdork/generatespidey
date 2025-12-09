@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #29",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmPuvZQrxS7HtP1xxXrpigacp3DicihbSyiWdgDBNktAKo",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "feather headpiece"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "silver lightning suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

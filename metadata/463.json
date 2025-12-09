@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #463",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmY3wKHQ7CQXfC8tmeUR9ajez8TTG3D91ijqFdc3HHfi2u",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "feather headpiece"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "jumping action pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "white bone suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

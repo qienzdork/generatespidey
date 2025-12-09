@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #328",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmfGuTM76xc26xYqxUWktiqNNVHNqhMY34LdwmqBng9TPh",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "wooden shield"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "jumping action pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #410",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmQtLq4SzXwUESkZCixxRgcDjuywV9JDMKBMiMzcq61t2d",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone axe weapon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "black shadow suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

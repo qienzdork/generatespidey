@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #259",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmZuQEYvwv6PTwXihinQJD9uXQ7kjdKjz5bnJhGAvHqLUB",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone axe weapon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "green jungle suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

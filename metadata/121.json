@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #121",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmS7RW3B9xWFqQvZjCp7MK5n6NqgsgrRWugrE97Kep6VHt",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone guitar"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

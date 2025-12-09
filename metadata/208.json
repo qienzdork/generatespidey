@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #208",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmS5h1ALz9p3rrGA1Rgxy1TCHmAaf4cM2KCatNv7KXLwY6",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "lightning totem staff"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "red tribal suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

@@ -1,6 +1,6 @@
 node_modules
 .env
 images
-metadata
 *.log
 .DS_Store
+

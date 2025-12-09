@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #152",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://Qmb9bqxFbmi8k6MvejCQ7KMYAC1pgzSGPoorFZg49utamw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone guitar"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "blue ice suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

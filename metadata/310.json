@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #310",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmccmUDqfxArTRG6yFXFXBW6HX3nKsbxKit4UcDok9TqXU",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "skull helmet"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "brown earth suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

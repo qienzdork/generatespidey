@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #30",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmSW1tQfS4jFogGU5s5cC5WJte6NMKrD4NfP7U2TQNLNMU",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone spear in hand"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "black shadow suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #440",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmTK32jrsZkT8nqP9QWmrLsmTzthQTD2WebbR6tnBgwoF9",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone necklace"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "orange lava suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

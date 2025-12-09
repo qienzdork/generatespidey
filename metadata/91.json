@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #91",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmatCh2XMNLUuUvy2AyWJ8VUz4XrfweX7yNrMyNc5mgwn1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "skull helmet"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "red tribal suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

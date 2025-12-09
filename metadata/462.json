@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #462",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmbWiCKczNBSJkm2mi6g4gsCAEBMRW7UneieHfJh8JL2Cx",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "skull helmet"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "green jungle suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

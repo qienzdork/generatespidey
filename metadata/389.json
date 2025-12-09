@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #389",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmXRz5p76ne6Mw49KnDpsmdpkWfrHdggvgRmKarcJHo7dc",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "feather headpiece"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "jumping action pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "brown earth suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

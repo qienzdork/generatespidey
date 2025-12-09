@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #309",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://Qmc3SukULVPXbgc3CMVxb3ky85JcJXRdgc5YvHUd7E7n6J",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone spear in hand"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "orange lava suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

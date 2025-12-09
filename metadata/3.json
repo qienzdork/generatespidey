@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #3",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmaEEAVdbGXdApsFYPfdScLM46dUMYarg6rVRgdQwi3qrn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone necklace"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "black shadow suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

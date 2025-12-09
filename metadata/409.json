@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #409",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmNpQK9cnGB76j3tfeHiqXMxGfuoNtso1FPBhMBfkKgoJe",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "wooden shield"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "purple mystic suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

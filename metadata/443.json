@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #443",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmPHQwUoKC3nn5cdw2cy1Uo2WP7gDQbJNu9snDLNtYgJBg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone axe weapon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "jumping action pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "green jungle suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

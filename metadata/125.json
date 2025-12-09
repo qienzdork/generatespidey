@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #125",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmVG5dVvRQb5XfuuiYkcVRF17R9Qvs3Qc4XSReVdyht3LE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "lightning totem staff"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "white bone suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

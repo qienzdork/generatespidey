@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #230",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmXYCSXYQPMCjt1jGjtaAgsCqUYQwr3yajH4ccyHkQGA2X",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "skull helmet"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

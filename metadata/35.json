@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #35",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://Qmbq41TmJYpP4TmcDQC5cEyFtUHr4b1NV3LGYdcUut7tgj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone guitar"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "blue ice suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

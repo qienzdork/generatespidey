@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #41",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://Qmav5msS5KZnjB1TqmMBL4kuJiE9hvDagKXxkVJ3E78Kq5",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone axe weapon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "purple mystic suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

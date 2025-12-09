@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #160",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmXJBzyDEeL5koE4zosyCgqHpavfLZgyBvBZgBEmCVYADT",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "skull helmet"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "purple mystic suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

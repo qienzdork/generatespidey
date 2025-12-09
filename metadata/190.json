@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #190",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmWGYv8xYtbvQUY18uP1ajaukwm2rF8eEsyfPp3LpZDGpr",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "wooden shield"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

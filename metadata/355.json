@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #355",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmeMGeTCNa6b8pfe9QgQqBhKrLaogHgaeiX2FHaeK4XSdr",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone axe weapon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "jumping action pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #292",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmPz9iCr4Q3tfaLkBBRbZg2Das9A2echGvMMrfn4a3k2em",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone spear in hand"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "orange lava suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

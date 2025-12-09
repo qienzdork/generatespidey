@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #218",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmbEjPd1uxWNRYQM5UUJtwjHHVvcEBXB6NyXLb7P47NmeE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone spear in hand"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "blue ice suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

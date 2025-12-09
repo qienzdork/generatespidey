@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #417",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmZWrz2JCGW1tt7xsEdaWRWPLkhSZQLQGmVgyjgVq7Z5f2",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "wooden shield"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "white bone suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

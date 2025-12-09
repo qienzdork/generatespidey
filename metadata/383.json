@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #383",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmSrA7o3wfJ2p2ukPGeKrWwqKnwjRmFrU2eicyhdKGCAqw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone necklace"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "brown earth suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

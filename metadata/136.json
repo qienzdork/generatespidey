@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #136",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmRYMSFLN73X7aAwUNHKRiLRqEGZ58JkySZGpMXkGzvV37",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone spear in hand"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

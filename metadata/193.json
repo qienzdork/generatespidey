@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #193",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmS83qgKCB5wm2ndc6P2Nb22WdHsFrnsrXHggA4KErhr4K",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "lightning totem staff"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #59",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmeXxGrvU5QMoSWkFmQv7KWse3MQrUcvwaNJR6FwenGTQu",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "wooden shield"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "white bone suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

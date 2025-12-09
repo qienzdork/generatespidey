@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #381",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmRvFLm7f7DCZ5NAe6Me4fKAfByZvQ2BGQtWuHRcuop14v",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone axe weapon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "purple mystic suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

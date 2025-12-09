@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #87",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmdBsvX64KuYEbB6KPNxbY98Dprq1L3iqGo3PvePR2Ekxf",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "primitive drum"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "brown earth suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

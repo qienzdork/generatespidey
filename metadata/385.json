@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #385",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmXNpe6n6NkHaU8uMHuWZd763PKFYLZjMjZ79HDbFDK3MR",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "primitive drum"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "white bone suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

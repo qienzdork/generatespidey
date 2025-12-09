@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #373",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmZa3yxGshodM3r4vYj5ycJ3Dq5DbuU3bXp5BEEvrS2utZ",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone necklace"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "jumping action pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "purple mystic suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

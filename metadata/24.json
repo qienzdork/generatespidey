@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #24",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmcApuuBoGAqTSeG338dcHU7V3yvvM7y7BpTo1J66BEfjd",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone guitar"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

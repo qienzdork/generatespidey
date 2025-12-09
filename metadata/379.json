@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #379",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmaAvaGxFQNpZUbELYuZHRFm3gRNu7SMoLRWwWCTEVh9ZM",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "lightning totem staff"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "white bone suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

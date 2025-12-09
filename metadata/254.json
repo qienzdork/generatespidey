@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #254",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmWmyZ7kjc7wCp2VNaKjmYrqB5xcTEnEYGuQao2rzgSHzS",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "tribal mask"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "red tribal suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

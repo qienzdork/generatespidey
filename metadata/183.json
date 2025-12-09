@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #183",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmV1X2G7f95uQcw4oQW4ijR2nNNqPyfkm6rqRKZHvGwxW1",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone axe weapon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "silver lightning suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

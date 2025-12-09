@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #404",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "file://404.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "wooden shield"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

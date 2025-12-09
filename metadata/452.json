@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #452",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmVEmVjB84pPZh9KWYK7R45MURgjrbLzEHuGvvYnWqQCHn",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "feather headpiece"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

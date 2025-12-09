@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #76",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmU2r8zUHEbcE2YBniFKDPbMxGNehLBL7JcjmYwbDEY6dw",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "tribal mask"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "jumping action pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "brown earth suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

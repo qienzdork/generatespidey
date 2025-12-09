@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #176",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmP1sCGg4KUUhsiMMZ1hoHrSK875DbUSxoqmd5V4bnMPmU",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "primitive drum"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "purple mystic suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

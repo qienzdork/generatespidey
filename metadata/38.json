@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #38",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://Qme59LjehzKY91vX9ieafBpzCLNArLBvwLqUzs9k7xja4z",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone guitar"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "golden sun suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

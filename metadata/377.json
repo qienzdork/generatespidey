@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #377",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmcVoZJzHnRrrZt9sG7Z8v2i8gL1bzNkxAkwNBVPVNZ5My",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "tribal mask"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "crouching stealth pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "purple mystic suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

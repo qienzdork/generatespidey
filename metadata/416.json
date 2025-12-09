@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #416",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmNaLkh2gwZtqQx3SeU2vsfAXJpLvSsQCywjqaSC4R3ZTt",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "bone spear in hand"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "green jungle suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

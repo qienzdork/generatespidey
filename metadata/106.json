@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #106",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmW7GMXa3iuUimbLTeSR2p7L2Rg68ajKx87SjG5vPthLMj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "skull helmet"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "blue ice suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

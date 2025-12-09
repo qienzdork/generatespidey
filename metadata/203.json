@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #203",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmdPhrqrQkMFyYATb5xGxT4nSfCWeRC3CksURmRkszA3QD",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ancient jungle background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone axe weapon"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "blue ice suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

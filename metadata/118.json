@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #118",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://Qme4PXCTFN9jM41jWgojjRXhWxDBWEvPtq61a4q7YXr8Pi",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "primitive drum"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "standing hero pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "orange lava suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

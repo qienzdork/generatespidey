@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #62",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmNXqMx4wk6Z4DovVwS2cpGFQuXkqmYYZm86LtWGupbLBE",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "ice age mountain background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "skull helmet"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "jumping action pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "purple mystic suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

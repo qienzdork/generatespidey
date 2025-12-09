@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #426",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmR9PGAtukgyyQByLVYDY7byM2NJhQgcVcj8NtbZYnd24J",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "lava cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "stone guitar"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "sitting ritual pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "white bone suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}

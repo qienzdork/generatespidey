@@ -1,0 +1,24 @@
+{
+  "name": "Tribal Spidey #83",
+  "description": "A collection of prehistoric tribal Spiderman chibis.",
+  "image": "ipfs://QmVTSFgxJjY7ay8JvpMYADKhvJZbX9Aw2TMv9929CWgJyj",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark tribal cave background"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "lightning totem staff"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "running attack pose"
+    },
+    {
+      "trait_type": "Color",
+      "value": "green jungle suit"
+    }
+  ],
+  "compiler": "Antigravity Engine"
+}
