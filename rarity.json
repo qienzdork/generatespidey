@@ -1,0 +1,42 @@
+{
+  "totalSupply": 10000,
+  "traits": {
+    "backgrounds": {
+      "lava cave background": 0,
+      "ancient jungle background": 0,
+      "ice age mountain background": 0,
+      "dark tribal cave background": 0
+    },
+    "accessories": {
+      "bone spear in hand": 0,
+      "stone axe weapon": 0,
+      "tribal mask": 0,
+      "bone necklace": 0,
+      "skull helmet": 0,
+      "feather headpiece": 0,
+      "wooden shield": 0,
+      "primitive drum": 0,
+      "stone guitar": 0,
+      "lightning totem staff": 0
+    },
+    "poses": {
+      "standing hero pose": 0,
+      "running attack pose": 0,
+      "sitting ritual pose": 0,
+      "jumping action pose": 0,
+      "crouching stealth pose": 0
+    },
+    "colors": {
+      "red tribal suit": 0,
+      "black shadow suit": 0,
+      "blue ice suit": 0,
+      "green jungle suit": 0,
+      "golden sun suit": 0,
+      "purple mystic suit": 0,
+      "white bone suit": 0,
+      "orange lava suit": 0,
+      "silver lightning suit": 0,
+      "brown earth suit": 0
+    }
+  }
+}
